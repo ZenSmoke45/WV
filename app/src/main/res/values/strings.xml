@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SearchView</string>
+    <string name="map_key" translatable="false">AIzaSyCZRaRrnNp_dDAWF9PnTnGJ6GEMecQPJpA</string>
+</resources>
